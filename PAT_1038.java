@@ -33,7 +33,7 @@ public class PAT {
 			System.out.print(count);
 		}
 		}
-		
+		//sad
 	}
 
 }
